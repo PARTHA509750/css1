@@ -1,0 +1,65 @@
+.main{
+    width: 100%;
+    text-align: center;
+}
+.HEADING{
+    background-color: darkorange;
+    text-align: center;
+}
+
+
+.one{
+    font-size: 40px;
+    color: darkgreen;
+    font-family: 'Pacifico', cursive;
+}
+.two{
+    color: darkcyan;
+    font-size: 40px;
+    font-family: 'Felipa', cursive;  
+}
+.three{
+    color: darkblue;
+    font-size: 40px;
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+.four{
+    color: darkred;
+    font-size: 20px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.HEADING-1{
+    background-color: darkkhaki;
+    font-size: 20px;
+    font-family: 'Crimson Text', serif;    
+}
+.banner-image{
+    background-color: lightcyan;
+}
+.HEADING-2{
+    background-color:darkorange;
+}
+.para1{
+    text-align: justify;
+}
+.HEADING-3{
+    background-color: darkgoldenrod;
+    color: darkblue;
+}
+.section{
+    background-color: lightgreen;
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'Kalam', cursive;
+}
+.HEADING-4{
+    background-color: darkorange;
+}
+.frm1{
+    background-color: lightgreen;
+}
+.lrl1{
+    background-color: darkorange;
+    font-family: 'Atma', cursive;
+}
